@@ -13,9 +13,15 @@
   > [Live Demo](https://jankee92pl.github.io/Tip-Calculator-App/)
 * [QR-Code-Component-Hub](https://github.com/JANKEE92PL/QR-Code-Component-Hub)
   > [Live Demo](https://jankee92pl.github.io/QR-Code-Component-Hub/)
+* [QuizApp](https://github.com/JANKEE92PL/QuizApp)
+  > [Live Demo](https://jankee92pl.github.io/QuizApp/)
+* [Password-Generator](https://github.com/JANKEE92PL/Password-Generator)
+  > [Live Demo](https://jankee92pl.github.io/Password-Generator/Random%20Password%20Generator/)  
+* [Produkt Page](https://github.com/JANKEE92PL/product)
+  > [Live Demo](https://jankee92pl.github.io/product/)
 
-  
-  
+
+
 <hr>
 
 ## Backend development
