@@ -1,4 +1,4 @@
-# Gallery
+# Gallery of ```JANKEE92PL```
 ## The gallery of my Projects done 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
