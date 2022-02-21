@@ -1,16 +1,22 @@
 # Gallery of ```JANKEE92PL```
-## The gallery of my Projects done 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
-  
 ![GitHub watchers](https://img.shields.io/github/watchers/Jankee92pl/Gallery?style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/Jankee92pl/gallery)
 ![GitHub issues](https://img.shields.io/github/issues-raw/jankee92pl/gallery)
 ![GitHub](https://img.shields.io/github/license/jankee92pl/gallery?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jankee92pl/gallery)
- ![GitHub last commit](https://img.shields.io/github/last-commit/jankee92pl/gallery)
+![GitHub last commit](https://img.shields.io/github/last-commit/jankee92pl/gallery)
 ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fjankee92pl.github.io%2FPortfolio%2F)
-  
+
+
+### The gallery of my Projects done 
+
+<hr>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
+
+
+
 ## Frontend development
 # <p align="center"> [Portfolio](https://jankee92pl.github.io/Portfolio/)<p/>
 
