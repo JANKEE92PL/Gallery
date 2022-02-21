@@ -2,7 +2,8 @@
 ## The gallery of my Projects done 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
-
+  
+[![Coverage Status](https://coveralls.io/repos/github/JANKEE92PL/Gallery/badge.svg?branch=main)](https://coveralls.io/github/JANKEE92PL/Gallery?branch=main)
 
 ## Frontend development
 # <p align="center"> [Portfolio](https://jankee92pl.github.io/Portfolio/)<p/>
