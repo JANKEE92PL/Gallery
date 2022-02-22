@@ -19,9 +19,12 @@
 
 ## Frontend development
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
-  
-# <p align="center"> [Portfolio](https://jankee92pl.github.io/Portfolio/)<p/>
+<p align="center"><img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
+
+# <p align="center">[Portfolio](https://jankee92pl.github.io/Portfolio/)<p/>
+ 
+### <p align="center">![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fjankee92pl.github.io%2FPortfolio%2F)<p/>
+
 
 * [Advice-generator-App](https://github.com/JANKEE92PL/Advice-generator-App)
   > [Live Demo](  https://jankee92pl.github.io/Advice-generator-App/)
@@ -72,4 +75,3 @@
 ## Miscellaneous development
   
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154865345-c8374f83-85a9-4267-89b7-a58afd0c3b64.png" <p/>
-    
