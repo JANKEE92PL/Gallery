@@ -47,7 +47,7 @@
 * [Crudify / rails-simple-airbnb](https://github.com/JANKEE92PL/rails-simple-airbnb)
   > [Live Demo](https://crudify187.herokuapp.com/)
 * [Headphone BNB](  https://github.com/arman-aminzadeh/HEADPHONE_BNB)
-  > [Live Demo](#)
+  > [Live Demo](https://dashboard.heroku.com/apps/headphone-bnb-arman-aminzadeh)
   
 <hr>
 
