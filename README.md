@@ -2,6 +2,7 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/Jankee92pl/Gallery?style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/Jankee92pl/gallery)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/JANKEE92PL/Gallery)
 ![GitHub issues](https://img.shields.io/github/issues-raw/jankee92pl/gallery)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/JANKEE92PL/Gallery)
 ![GitHub](https://img.shields.io/github/license/jankee92pl/gallery)
