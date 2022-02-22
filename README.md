@@ -13,13 +13,14 @@
 
 ### The gallery of my Projects done 
 
+![full-stack-software-entwicklung20181128](https://user-images.githubusercontent.com/65852150/155228557-96af6e64-62aa-4188-a688-b2dbe1674504.jpg)
+
 <hr>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
-
-
-
 ## Frontend development
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
+  
 # <p align="center"> [Portfolio](https://jankee92pl.github.io/Portfolio/)<p/>
 
 * [Advice-generator-App](https://github.com/JANKEE92PL/Advice-generator-App)
