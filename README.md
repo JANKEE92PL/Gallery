@@ -11,7 +11,7 @@
 ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fjankee92pl.github.io%2FPortfolio%2F)
 
 
-### The gallery of my Projects done 
+### The gallery of my Projects done. 
 
 ![full-stack-software-entwicklung20181128](https://user-images.githubusercontent.com/65852150/155228557-96af6e64-62aa-4188-a688-b2dbe1674504.jpg)
 
