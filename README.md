@@ -42,7 +42,6 @@
   > [Live Demo](https://jankee92pl.github.io/Github-user-search-App/)
 
 
-
 <hr>
 
 ## Backend development
