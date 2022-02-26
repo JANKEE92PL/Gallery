@@ -68,7 +68,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863795-6e1785a3-ed66-49ca-b311-2f9dc68e5fc1.jpg" <p/>
   
 
-  
+ 
 * [Chrome-Plugin-Coronavirus-Marker](https://github.com/JANKEE92PL/Chrome-Plugin-Coronavirus-Marker)
   
 ## Miscellaneous development
