@@ -41,7 +41,6 @@
 * [Github-user-search-App](https://github.com/JANKEE92PL/Github-user-search-App)
   > [Live Demo](https://jankee92pl.github.io/Github-user-search-App/)
 
-
 <hr>
 
 ## Backend development
