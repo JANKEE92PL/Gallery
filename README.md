@@ -45,7 +45,8 @@
   > [Live Demo](https://jankee92pl.github.io/IP-Address-Tracker/)
 * [E-Commerce-Product-Page](https://github.com/JANKEE92PL/ecommerce-product-page)
   > [Live Demo](https://jankee92pl.github.io/ecommerce-product-page/)
-
+* [Fylo-data-storage-component](https://github.com/JANKEE92PL/fylo-data-storage-component)
+  > [Live Demo](https://jankee92pl.github.io/fylo-data-storage-component/)
 <hr>
 
 ## Backend development
