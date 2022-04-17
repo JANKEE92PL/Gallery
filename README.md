@@ -26,7 +26,6 @@
  
 ### <p align="center">![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fjankee92pl.github.io%2FPortfolio%2F)<p/>
 
-
 * [Advice-generator-App](https://github.com/JANKEE92PL/Advice-generator-App)
   > [Live Demo](  https://jankee92pl.github.io/Advice-generator-App/)
 * [Tip-Calculator-App](https://github.com/JANKEE92PL/Tip-Calculator-App)
