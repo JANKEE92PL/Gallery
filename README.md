@@ -46,6 +46,8 @@
   > [Live Demo](https://jankee92pl.github.io/ecommerce-product-page/)
 * [Fylo-data-storage-component](https://github.com/JANKEE92PL/fylo-data-storage-component)
   > [Live Demo](https://jankee92pl.github.io/fylo-data-storage-component/)
+* [Static-job-listings](https://github.com/JANKEE92PL/static-job-listings)
+  > [Live Demo](https://jankee92pl.github.io/static-job-listings/)
 <hr>
 
 ## Backend development
