@@ -81,7 +81,8 @@
  
  <hr>
 
-<p align="center"> <img src="" <p/>
+<p align="center"> <img src="![react-logo](https://user-images.githubusercontent.com/65852150/168618336-a23e2207-0630-466b-b48d-5c5a74f4a24f.png)
+" <p/>
 
 ### React JS development
  * [Todo app](https://github.com/JANKEE92PL/todoapp)
