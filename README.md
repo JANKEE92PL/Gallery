@@ -1,6 +1,9 @@
 # Gallery of ```JANKEE92PL```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee92pl)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee92pl&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankee92pl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/JANKEE92PL?style=social">
