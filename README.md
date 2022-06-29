@@ -76,7 +76,7 @@
 
 ### Python development
 
- * [Shopping list](https://github.com/JANKEE92PL/shopping_list)
+* [Shopping list](https://github.com/JANKEE92PL/shopping_list)
   > [Live Demo](https://jankee92pl.github.io)
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863996-779fefb7-8570-4fea-a8b2-9f0e958d3808.png" <p/>
