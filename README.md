@@ -74,14 +74,15 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/176418176-8a62751d-38ea-4645-9912-2cbe621b0931.png"<p/>
  
-
- 
  
 ### Python development
 
 * [Shopping list](https://github.com/JANKEE92PL/shopping_list)
   > [Live Demo](https://jankee92pl.github.io)
 
+ 
+ <hr>
+ 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863996-779fefb7-8570-4fea-a8b2-9f0e958d3808.png" <p/>
   
 ### Node development
