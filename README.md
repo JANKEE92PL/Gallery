@@ -72,10 +72,12 @@
   
 <hr>
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863240-4b143256-9073-494d-9f92-e2687e022839.png" <p/>
+
 ### Python development
 
- * [Colorchanger](https://github.com/JANKEE92PL/colorchanger/tree/master)
-  > [Live Demo](https://jankee92pl.github.io/colorchanger/)
+ * [Shopping list](https://github.com/JANKEE92PL/shopping_list)
+  > [Live Demo](https://jankee92pl.github.io)
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863996-779fefb7-8570-4fea-a8b2-9f0e958d3808.png" <p/>
   
