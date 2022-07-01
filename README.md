@@ -78,7 +78,6 @@
 ### Python development
 
 * [Shopping list](https://github.com/JANKEE92PL/shopping_list)
-  > [Live Demo](https://jankee92pl.github.io)
 
  
  <hr>
