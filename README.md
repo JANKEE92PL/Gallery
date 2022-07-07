@@ -60,6 +60,8 @@
   > [Live Demo](https://jankee92pl.github.io/static-job-listings/)
 * [Colorchanger](https://github.com/JANKEE92PL/colorchanger/tree/master)
   > [Live Demo](https://jankee92pl.github.io/colorchanger/)
+* [Rock, Paper, Scissors](https://github.com/JANKEE92PL/rock-paper-scissors-master)
+  > [Live Demo](https://jankee92pl.github.io/rock-paper-scissors-master/)
 <hr>
 
 ## Backend development
