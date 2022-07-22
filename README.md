@@ -76,8 +76,8 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/180411897-0f635532-c8f2-4270-8833-891b756b0c12.png" <p/>
  
  ### Svelte JS / TS development
- * [placeholder](https://github.com/JANKEE92PL/)
-   > [Live Demo](https://jankee92pl.github.io/)
+ * [Webapp Create Read](https://github.com/JANKEE92PL/webapp/)
+   > [Live Demo](https://webapp-ceate-read.vercel.app/)
  <hr>
 
 ## Backend development
