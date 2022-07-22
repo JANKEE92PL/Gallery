@@ -64,6 +64,22 @@
   > [Live Demo](https://jankee92pl.github.io/rock-paper-scissors-master/)
 <hr>
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/168619127-bd26efbd-8acb-43b9-a6fe-9938607801ee.png" <p/>
+ 
+### React JS development
+ * [Todo app](https://github.com/JANKEE92PL/todoapp)
+   > [Live Demo](https://jankee92pl.github.io/todoapp/)
+   
+<hr>
+
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/180411897-0f635532-c8f2-4270-8833-891b756b0c12.png" <p/>
+ 
+ ### Svelte JS / TS development
+ * [placeholder](https://github.com/JANKEE92PL/)
+   > [Live Demo](https://jankee92pl.github.io/)
+ <hr>
+
 ## Backend development
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863240-4b143256-9073-494d-9f92-e2687e022839.png" <p/>
   
@@ -104,20 +120,6 @@
  
 <hr>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/168619127-bd26efbd-8acb-43b9-a6fe-9938607801ee.png" <p/>
- 
-### React JS development
- * [Todo app](https://github.com/JANKEE92PL/todoapp)
-   > [Live Demo](https://jankee92pl.github.io/todoapp/)
-   
-### Svelte JS / TS development
- * [placeholder](https://github.com/JANKEE92PL/)
-   > [Live Demo](https://jankee92pl.github.io/)
- 
-<hr>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/168619127-bd26efbd-8acb-43b9-a6fe-9938607801ee.png" <p/>
- 
 ## Chrome extensions
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863795-6e1785a3-ed66-49ca-b311-2f9dc68e5fc1.jpg" <p/>
   
