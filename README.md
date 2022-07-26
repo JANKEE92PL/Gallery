@@ -61,7 +61,7 @@
 * [Colorchanger](https://github.com/JANKEE92PL/colorchanger/tree/master)
   > [Live Demo](https://jankee92pl.github.io/colorchanger/)
 * [Rock, Paper, Scissors](https://github.com/JANKEE92PL/rock-paper-scissors-master)
-  > [Live Demo](https://jankee92pl.github.io/rock-paper-scissors-master/)
+  > [Live Demo](https://jankee92pl.github.io/rock-paper-scissors-master/) ❤️
 <hr>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/168619127-bd26efbd-8acb-43b9-a6fe-9938607801ee.png" <p/>
