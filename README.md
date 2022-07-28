@@ -37,7 +37,7 @@
 ### <p align="center">![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fjankee92pl.github.io%2FPortfolio%2F)<p/>
 
 * [Advice-generator-App](https://github.com/JANKEE92PL/Advice-generator-App)
-  > [Live Demo](  https://jankee92pl.github.io/Advice-generator-App/)
+  > [Live Demo](  https://jankee92pl.github.io/Advice-generator-App/)  ✅
 * [Tip-Calculator-App](https://github.com/JANKEE92PL/Tip-Calculator-App)
   > [Live Demo](https://jankee92pl.github.io/Tip-Calculator-App/)
 * [QR-Code-Component-Hub](https://github.com/JANKEE92PL/QR-Code-Component-Hub)
@@ -45,13 +45,13 @@
 * [QuizApp](https://github.com/JANKEE92PL/QuizApp)
   > [Live Demo](https://jankee92pl.github.io/QuizApp/)
 * [Password-Generator](https://github.com/JANKEE92PL/Password-Generator)
-  > [Live Demo](https://jankee92pl.github.io/Password-Generator/Random%20Password%20Generator/)  
+  > [Live Demo](https://jankee92pl.github.io/Password-Generator/Random%20Password%20Generator/)  ❤️
 * [Produkt Page](https://github.com/JANKEE92PL/product)
   > [Live Demo](https://jankee92pl.github.io/product/)
 * [Github-user-search-App](https://github.com/JANKEE92PL/Github-user-search-App)
-  > [Live Demo](https://jankee92pl.github.io/Github-user-search-App/)
+  > [Live Demo](https://jankee92pl.github.io/Github-user-search-App/) ❤️
 * [IP-Address-Tracker](https://github.com/JANKEE92PL/IP-Address-Tracker)
-  > [Live Demo](https://jankee92pl.github.io/IP-Address-Tracker/)
+  > [Live Demo](https://jankee92pl.github.io/IP-Address-Tracker/) ❤️
 * [E-Commerce-Product-Page](https://github.com/JANKEE92PL/ecommerce-product-page)
   > [Live Demo](https://jankee92pl.github.io/ecommerce-product-page/)
 * [Fylo-data-storage-component](https://github.com/JANKEE92PL/fylo-data-storage-component)
@@ -59,9 +59,9 @@
 * [Static-job-listings](https://github.com/JANKEE92PL/static-job-listings)
   > [Live Demo](https://jankee92pl.github.io/static-job-listings/)
 * [Colorchanger](https://github.com/JANKEE92PL/colorchanger/tree/master)
-  > [Live Demo](https://jankee92pl.github.io/colorchanger/)
+  > [Live Demo](https://jankee92pl.github.io/colorchanger/) 🍴
 * [Rock, Paper, Scissors](https://github.com/JANKEE92PL/rock-paper-scissors-master)
-  > [Live Demo](https://jankee92pl.github.io/rock-paper-scissors-master/) ❤️
+  > [Live Demo](https://jankee92pl.github.io/rock-paper-scissors-master/) ❤️🆕
 <hr>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/168619127-bd26efbd-8acb-43b9-a6fe-9938607801ee.png" <p/>
