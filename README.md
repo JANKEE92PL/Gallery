@@ -39,7 +39,7 @@
 * [Advice-generator-App](https://github.com/JANKEE92PL/Advice-generator-App)
   > [Live Demo](  https://jankee92pl.github.io/Advice-generator-App/)  ✅
 * [Tip-Calculator-App](https://github.com/JANKEE92PL/Tip-Calculator-App)
-  > [Live Demo](https://jankee92pl.github.io/Tip-Calculator-App/)
+  > [Live Demo](https://jankee92pl.github.io/Tip-Calculator-App/) ❤️
 * [QR-Code-Component-Hub](https://github.com/JANKEE92PL/QR-Code-Component-Hub)
   > [Live Demo](https://jankee92pl.github.io/QR-Code-Component-Hub/)
 * [QuizApp](https://github.com/JANKEE92PL/QuizApp)
