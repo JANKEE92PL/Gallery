@@ -72,7 +72,6 @@
    
 <hr>
 
-
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/180411897-0f635532-c8f2-4270-8833-891b756b0c12.png" <p/>
  
  ### Svelte JS / TS development
