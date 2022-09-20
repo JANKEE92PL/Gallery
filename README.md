@@ -11,8 +11,9 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jankee92pl/gallery)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jankee92pl/gallery)
 ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fjankee92pl.github.io%2FPortfolio%2F)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee92pl&show_icons=true&theme=tokyonight)
+
+[![CODEWARS](https://www.codewars.com/users/JANKEE92PL/badges/large)](https://www.codewars.com/users/JANKEE92PL)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankee92pl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
