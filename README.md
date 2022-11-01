@@ -90,7 +90,6 @@
  * [Twittr](https://github.com/JANKEE92PL/svelte-kit-Twittr)
    > [Live Demo](https://svelte-kit-twittr.vercel.app/) ❤️
 
-
 ## Backend development
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/154863240-4b143256-9073-494d-9f92-e2687e022839.png" <p/>
   
@@ -103,8 +102,7 @@
   
 <hr>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/176418176-8a62751d-38ea-4645-9912-2cbe621b0931.png"<p/>
- 
+<p align="center"> <img src="https://user-images.githubusercontent.com/65852150/176418176-8a62751d-38ea-4645-9912-2cbe621b0931.png"<p/> 
  
 ### Python development
 
