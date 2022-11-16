@@ -134,6 +134,7 @@
   
 
 * [Chrome-Plugin-Coronavirus-Marker](https://github.com/JANKEE92PL/Chrome-Plugin-Coronavirus-Marker)
+* [Chrome-Plugin-Fast-Jobsearch-Tool-for-Get-in-it](https://github.com/JANKEE92PL/Fast-Jobsearch-Tool-for-Get-in-it)
   
 ## Miscellaneous development
   
