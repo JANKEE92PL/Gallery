@@ -83,7 +83,7 @@
    > [Live Demo](https://webapp-ceate-read.vercel.app/)
  * [Svelte Dashboard](https://github.com/JANKEE92PL/dashboard/blob/master/README.md)
    > [Live Demo](https://svelte-dashboar-sj.surge.sh/#/tabelle) ❤️
-   * [Fifa-world-cup-22-table](https://jankee92pl.github.io/Fifa-world-cup-22-table/)
+ * [Fifa-world-cup-22-table](https://jankee92pl.github.io/Fifa-world-cup-22-table/)
    > [Live Demo](https://jankee92pl.github.io/Fifa-world-cup-22-table/) ❤️🆕 
    
  <hr>
