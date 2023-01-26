@@ -19,7 +19,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankee92pl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ### The gallery of my Projects done. 
 
 ![full-stack-software-entwicklung20181128](https://user-images.githubusercontent.com/65852150/155228557-96af6e64-62aa-4188-a688-b2dbe1674504.jpg)
