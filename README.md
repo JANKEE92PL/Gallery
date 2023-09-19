@@ -72,7 +72,8 @@
 ### React JS development
  * [Todo app](https://github.com/JANKEE92PL/todoapp)
    > [Live Demo](https://jankee92pl.github.io/todoapp/)
-   
+ * [Rent Car app](https://github.com/JANKEE92PL/rent-a-car)
+   > [Live Demo](   https://rent-a-car-topaz.vercel.app/)
 <hr>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/65852150/180411897-0f635532-c8f2-4270-8833-891b756b0c12.png" <p/>
