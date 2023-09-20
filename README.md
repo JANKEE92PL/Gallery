@@ -73,8 +73,8 @@
  * [Todo app](https://github.com/JANKEE92PL/todoapp)
    > [Live Demo](https://jankee92pl.github.io/todoapp/)
    
- * [Rent Car app](https://github.com/JANKEE92PL/rent-a-car) 👌
-   > [Live Demo](   https://rent-a-car-topaz.vercel.app/)
+ * [Rent Car app](https://github.com/JANKEE92PL/rent-a-car) 👌 🆕
+   > [Live Demo](https://rent-a-ciimh7nld-jankee92pl.vercel.app/)
 
 <hr>
 
