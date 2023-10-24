@@ -29,9 +29,9 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/65852150/154863102-f2cba342-d4ea-4817-8357-20c97f0561fe.png" <p/>
 
-# <p align="center">[Portfolio](https://jankee92pl.github.io/Portfolio/)<p/>
+# <p align="center">[Portfolio - Webdesigner](https://jankee92pl.github.io/Portfolio/)<p/>
 
-# <p align="center">[Portfolio Reactive](https://portfolio-jankee92pl.netlify.app/)<p/>
+# <p align="center">[Portfolio - Webdeveloper](https://portfolio-jankee92pl.netlify.app/)<p/>
 
 
 ## <p align="center">[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSjGeRac3OytJuNNpxMawLUZ4Klcbjgh23LfnLp7Ht4K2bVSeX62d_hiMZTSxk4bADAWyB6malPV7ZT/pub?start=false&loop=false&delayms=3000&slide=id.gc6f80d1ff_0_0)<p/>
